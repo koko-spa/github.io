@@ -25,7 +25,7 @@ body{
 .site-title a{
   display:inline-block;
   height:40px;
-  margin:10px 0;
+  margin:10px 0 10px 20px;
 }
 
 .site-title img{
