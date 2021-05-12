@@ -20,19 +20,19 @@ body{
 }
 .site-title{
   width:50%;
+  margin-left:14px;
 }
 
 .site-title a{
   display:inline-block;
   height:40px;
-  margin:10px 0 10px 20px;
+  margin:10px;
 }
 
 .site-title img{
   width:120px;
   height:40px;
   vertical-align:top;
-  margin:20px;
 }
 
 .site-nav{
