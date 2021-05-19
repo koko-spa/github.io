@@ -11,5 +11,7 @@
     display:block;
   }
   
-  
+ .about-text p{
+   text-align:left;
+  }
 }
